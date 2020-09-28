@@ -1,0 +1,115 @@
+[[TtH]]
+arch = "aarch64"
+git-tree-sha1 = "8039849dafd9ba8613071e089d4ce43d3c4c9ec5"
+libc = "glibc"
+os = "linux"
+
+    [[TtH.download]]
+    sha256 = "719a0f4d54b986a784c173c2c48dece0c5ead9a85556ef0649537602b71d85dd"
+    url = "https://github.com/JuliaBinaryWrappers/TtH_jll.jl/releases/download/TtH-v0.1.0+0/TtH.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[TtH]]
+arch = "aarch64"
+git-tree-sha1 = "3057a7a38c7a6d4c7e904469c5f0262b74cb58e6"
+libc = "musl"
+os = "linux"
+
+    [[TtH.download]]
+    sha256 = "247eaeaedb151d456ae287a27272f636d4958e2f3fc94bd9e128fe5da7407ae6"
+    url = "https://github.com/JuliaBinaryWrappers/TtH_jll.jl/releases/download/TtH-v0.1.0+0/TtH.v0.1.0.aarch64-linux-musl.tar.gz"
+[[TtH]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "eacac8a49ea5e7acf6928f0499becf35e0519c2a"
+libc = "glibc"
+os = "linux"
+
+    [[TtH.download]]
+    sha256 = "795cae4ca0fbf3911b8897676c5635a3c8ca522bd794b814f862d37105232678"
+    url = "https://github.com/JuliaBinaryWrappers/TtH_jll.jl/releases/download/TtH-v0.1.0+0/TtH.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[TtH]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "32ddc94944277fc26e773a155451be9e4bd8d30c"
+libc = "musl"
+os = "linux"
+
+    [[TtH.download]]
+    sha256 = "410c585344d2df0e90c2cedf1d307c6773c6cac45cfd52ad219cc0c84184725d"
+    url = "https://github.com/JuliaBinaryWrappers/TtH_jll.jl/releases/download/TtH-v0.1.0+0/TtH.v0.1.0.armv7l-linux-musleabihf.tar.gz"
+[[TtH]]
+arch = "i686"
+git-tree-sha1 = "432229b4d87a942ecc17f42c87d8acfdf6ce0ceb"
+libc = "glibc"
+os = "linux"
+
+    [[TtH.download]]
+    sha256 = "6b321b50d536646e9143523e2bcfd00a94573e303b46650b3b18cc571adb503d"
+    url = "https://github.com/JuliaBinaryWrappers/TtH_jll.jl/releases/download/TtH-v0.1.0+0/TtH.v0.1.0.i686-linux-gnu.tar.gz"
+[[TtH]]
+arch = "i686"
+git-tree-sha1 = "a56d9fa91c09d9c9c6f91ea61b6c294b23aeb108"
+libc = "musl"
+os = "linux"
+
+    [[TtH.download]]
+    sha256 = "d598a0e41d5dd1b822dabdd58f7d36a546ad0bfbb39d817ddac74ac762564fa8"
+    url = "https://github.com/JuliaBinaryWrappers/TtH_jll.jl/releases/download/TtH-v0.1.0+0/TtH.v0.1.0.i686-linux-musl.tar.gz"
+[[TtH]]
+arch = "i686"
+git-tree-sha1 = "9de008ba12ac0fe399fb3c686d7ad8c4d5369165"
+os = "windows"
+
+    [[TtH.download]]
+    sha256 = "fd3cc57201ec585b8ba96741b0141c12518adad11a53980b545e384972d247da"
+    url = "https://github.com/JuliaBinaryWrappers/TtH_jll.jl/releases/download/TtH-v0.1.0+0/TtH.v0.1.0.i686-w64-mingw32.tar.gz"
+[[TtH]]
+arch = "powerpc64le"
+git-tree-sha1 = "515aca9f69a31d84d5cdc3adff3bf159f5992455"
+libc = "glibc"
+os = "linux"
+
+    [[TtH.download]]
+    sha256 = "bdf5d3909a4ce451ff8cfe1581bc5df734cb43cf610cfad65c8678bcc46617a6"
+    url = "https://github.com/JuliaBinaryWrappers/TtH_jll.jl/releases/download/TtH-v0.1.0+0/TtH.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[TtH]]
+arch = "x86_64"
+git-tree-sha1 = "572867dc962dc70c9b4fc6f5f17d54ad869b0dcf"
+os = "macos"
+
+    [[TtH.download]]
+    sha256 = "05bd1266372d08d70d99996e704fff71573f631faaf16612bbd317e046e89479"
+    url = "https://github.com/JuliaBinaryWrappers/TtH_jll.jl/releases/download/TtH-v0.1.0+0/TtH.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[TtH]]
+arch = "x86_64"
+git-tree-sha1 = "2fbecf99d66599dc5d62d36df11cb8013e3f52b4"
+libc = "glibc"
+os = "linux"
+
+    [[TtH.download]]
+    sha256 = "490de9c249b59f9c247630024e4bc5c27cf36974a8a868f9839270ebdbe55d12"
+    url = "https://github.com/JuliaBinaryWrappers/TtH_jll.jl/releases/download/TtH-v0.1.0+0/TtH.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[TtH]]
+arch = "x86_64"
+git-tree-sha1 = "1af6e9431ece12f6e4aa1639383929472a9988a7"
+libc = "musl"
+os = "linux"
+
+    [[TtH.download]]
+    sha256 = "f088a3892087c0cd57621773d16a6e7667cdc636afa60543001e6ee95bd0a65f"
+    url = "https://github.com/JuliaBinaryWrappers/TtH_jll.jl/releases/download/TtH-v0.1.0+0/TtH.v0.1.0.x86_64-linux-musl.tar.gz"
+[[TtH]]
+arch = "x86_64"
+git-tree-sha1 = "9fb2461974d8e41547e369ae6de91d278377bd20"
+os = "freebsd"
+
+    [[TtH.download]]
+    sha256 = "1215f128fcd9aa906506c7fa32e88bab89dd8b64a818b6d84a88c0c27814ca3b"
+    url = "https://github.com/JuliaBinaryWrappers/TtH_jll.jl/releases/download/TtH-v0.1.0+0/TtH.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[TtH]]
+arch = "x86_64"
+git-tree-sha1 = "81cddea5f4b94b1485f225d89b8981d8ec4ef6cf"
+os = "windows"
+
+    [[TtH.download]]
+    sha256 = "4eefbb9f2510bdf29c84aea99daba8b405a78f969f998f4f779116bd490c917d"
+    url = "https://github.com/JuliaBinaryWrappers/TtH_jll.jl/releases/download/TtH-v0.1.0+0/TtH.v0.1.0.x86_64-w64-mingw32.tar.gz"
